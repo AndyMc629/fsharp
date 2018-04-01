@@ -1,0 +1,9 @@
+/Users/andymcmahon/GitHub/fsharp/basic/FSNetCore/src/App/bin/Debug/netcoreapp1.1/App.deps.json
+/Users/andymcmahon/GitHub/fsharp/basic/FSNetCore/src/App/bin/Debug/netcoreapp1.1/App.runtimeconfig.json
+/Users/andymcmahon/GitHub/fsharp/basic/FSNetCore/src/App/bin/Debug/netcoreapp1.1/App.runtimeconfig.dev.json
+/Users/andymcmahon/GitHub/fsharp/basic/FSNetCore/src/App/bin/Debug/netcoreapp1.1/App.dll
+/Users/andymcmahon/GitHub/fsharp/basic/FSNetCore/src/App/bin/Debug/netcoreapp1.1/App.pdb
+/Users/andymcmahon/GitHub/fsharp/basic/FSNetCore/src/App/bin/Debug/netcoreapp1.1/Library.dll
+/Users/andymcmahon/GitHub/fsharp/basic/FSNetCore/src/App/bin/Debug/netcoreapp1.1/Library.pdb
+/Users/andymcmahon/GitHub/fsharp/basic/FSNetCore/src/App/obj/Debug/netcoreapp1.1/App.dll
+/Users/andymcmahon/GitHub/fsharp/basic/FSNetCore/src/App/obj/Debug/netcoreapp1.1/App.pdb

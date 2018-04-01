@@ -1,0 +1,5 @@
+/Users/andymcmahon/GitHub/fsharp/basic/FSNetCore/src/Library/bin/Debug/netstandard1.6/Library.deps.json
+/Users/andymcmahon/GitHub/fsharp/basic/FSNetCore/src/Library/bin/Debug/netstandard1.6/Library.dll
+/Users/andymcmahon/GitHub/fsharp/basic/FSNetCore/src/Library/bin/Debug/netstandard1.6/Library.pdb
+/Users/andymcmahon/GitHub/fsharp/basic/FSNetCore/src/Library/obj/Debug/netstandard1.6/Library.dll
+/Users/andymcmahon/GitHub/fsharp/basic/FSNetCore/src/Library/obj/Debug/netstandard1.6/Library.pdb

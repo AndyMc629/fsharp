@@ -1,0 +1,56 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+ParticleSwarmOptimization/bin/**
+ParticleSwarmOptimization/obj/**
+ParticleSwarmOptimization_Parallel_1/bin/**
+ParticleSwarmOptimization_Parallel_1/bin/**
+ParticleSwarmOptimization_Parallel_2/obj/**
+ParticleSwarmOptimization_Parallel_2/obj/**
+SpeedTest/bin/**
+SpeedTest/obj/**
+*.suo
+ParticleSwarmOptimization_Parallel_1/obj/Debug/ParticleSwarmOptimization_Parallel_1.dll
+ParticleSwarmOptimization_Parallel_2/bin/Debug/FSharp.Collections.ParallelSeq.dll
+ParticleSwarmOptimization_Parallel_2/bin/Debug/ParticleSwarmOptimization_Parallel_2.dll
+ParticleSwarmOptimization_Parallel_2/bin/Debug/ParticleSwarmOptimization_Parallel_2.XML
