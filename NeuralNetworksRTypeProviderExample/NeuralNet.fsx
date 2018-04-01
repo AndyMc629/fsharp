@@ -47,12 +47,15 @@ let nn =
         "Species ~ Sepal.Length + Sepal.Width + Petal.Length + Petal.Width", 
         data = trainingSet, hidden = R.c(3,2), 
         err_fct = "ce", linear_output = true)
- 
+
+// DOESN'T WORK!!!!!!!!! 
+(* 
 // Plot the resulting neural network with coefficients
 R.eval(R.parse(text="library(grid)"))
 R.eval(R.parse(text="library(neuralnet)"))
 //R.plot_nn nn
- 
+//R.plot(nn)
+*)
 // Split testing set into features and targets
 let testingFeatures = 
     testingSet
