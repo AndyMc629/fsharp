@@ -1,13 +1,8 @@
 #load "packages/FsLab/FsLab.fsx"
- 
-open Deedle
-open RDotNet
-open RProvider
-open RProvider.``base``
-//open RProvider.datasets
 
 // You need to install 'nnet' and 'caret' packages if you do not have them
-//open RProvider.utils
+open RProvider.utils
+//R.install_packages("CVST")
 R.install_packages("MASS")
 R.install_packages("pbkrtest")
 R.install_packages("lattice")
@@ -15,9 +10,13 @@ R.install_packages("Matrix")
 R.install_packages("mgcv")
 R.install_packages("grid")
 R.install_packages("neuralnet")
-R.install_packages("caret")
+//R.install_packages("caret")
 R.install_packages("zoo")
- 
+open Deedle
+open RDotNet
+open RProvider
+open RProvider.``base``
+open RProvider.datasets
 open RProvider.neuralnet
 open RProvider.caret
  
@@ -51,7 +50,8 @@ let nn =
  
 // Plot the resulting neural network with coefficients
 R.eval(R.parse(text="library(grid)"))
-R.plot_nn nn
+R.eval(R.parse(text="library(neuralnet)"))
+//R.plot_nn nn
  
 // Split testing set into features and targets
 let testingFeatures = 
